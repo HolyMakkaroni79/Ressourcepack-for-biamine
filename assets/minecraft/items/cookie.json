@@ -157,6 +157,17 @@
           "model": "cookie_variants:item/cotton_candy/cotton_candy"
         }
       },
+      {
+        "when": {
+          "floats": [
+            6012
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/timbits/timbits"
+        }
+      },
            {
         "when": {
           "floats": [
