@@ -179,6 +179,17 @@
           "model": "cookie_variants:item/brezel/brezel"
         }
       },
+       {
+        "when": {
+          "floats": [
+            6014
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/schawarma/schawarma"
+        }
+      },
            {
         "when": {
           "floats": [
