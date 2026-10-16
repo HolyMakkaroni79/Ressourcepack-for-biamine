@@ -188,7 +188,7 @@
         },
         "model": {
           "type": "minecraft:model",
-          "model": "music_disc_variants:item/build_trophy/trophy_halloween"
+          "model": "music_disc_variants:item/build_trophy/build_halloween"
         }
       },
       {
